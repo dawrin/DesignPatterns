@@ -1,0 +1,6 @@
+C:\Users\villaverde\source\repos\Diseño_Factory_Method\Diseño_Factory_Method\bin\Debug\Diseño_Factory_Method.exe.config
+C:\Users\villaverde\source\repos\Diseño_Factory_Method\Diseño_Factory_Method\bin\Debug\Diseño_Factory_Method.exe
+C:\Users\villaverde\source\repos\Diseño_Factory_Method\Diseño_Factory_Method\bin\Debug\Diseño_Factory_Method.pdb
+C:\Users\villaverde\source\repos\Diseño_Factory_Method\Diseño_Factory_Method\obj\Debug\Diseño_Factory_Method.csprojAssemblyReference.cache
+C:\Users\villaverde\source\repos\Diseño_Factory_Method\Diseño_Factory_Method\obj\Debug\Diseño_Factory_Method.exe
+C:\Users\villaverde\source\repos\Diseño_Factory_Method\Diseño_Factory_Method\obj\Debug\Diseño_Factory_Method.pdb

@@ -1,0 +1,6 @@
+C:\Users\villaverde\source\repos\DiseñoSingleton\DiseñoSingleton\bin\Debug\DiseñoSingleton.exe.config
+C:\Users\villaverde\source\repos\DiseñoSingleton\DiseñoSingleton\bin\Debug\DiseñoSingleton.exe
+C:\Users\villaverde\source\repos\DiseñoSingleton\DiseñoSingleton\bin\Debug\DiseñoSingleton.pdb
+C:\Users\villaverde\source\repos\DiseñoSingleton\DiseñoSingleton\obj\Debug\DiseñoSingleton.csprojAssemblyReference.cache
+C:\Users\villaverde\source\repos\DiseñoSingleton\DiseñoSingleton\obj\Debug\DiseñoSingleton.exe
+C:\Users\villaverde\source\repos\DiseñoSingleton\DiseñoSingleton\obj\Debug\DiseñoSingleton.pdb
